@@ -1,0 +1,17 @@
+Participant,Numerics,Stress Balance,Resolution,Init Method,Init Year,Melt in Partially Floating,Ice Front,Open Melt Param.,Standard Melt Param.,Model
+AWI_PISM1,FD,Hybrid,8,Eq,2005,Sub-grid,StR,Quad,Nonlocal,PISM
+DOE_MALI,FE/FV,HO,2-20,DA+,2015,Floating condition,Fix,N/A,Nonlocal anom.,MALI
+ILTS_PIK_SICOPOLIS,FD,Hybrid,8,SP+,1990,Floating condition,MH,N/A,Nonlocal,SICOPOLI
+IMAU_IMAUICE1,FD,Hybrid,32,Eq,1978,No,Fix,N/A,Local anom.,IMAUICE
+IMAU_IMAUICE2,FD,Hybrid,32,SP,1978,No,Fix,N/A,Local anom.,IMAUICE
+JPL1_ISSM,FE,SSA,2-50,DA,2007,Sub-grid,Fix,N/A,Nonlocal,ISSM
+LSCE_GRISLI,FD,Hybrid,16,SP+,1995,N/A,MH,N/A,Nonlocal,GRISLI
+NCAR_CISM,FE/FV,L1L2,4,SP+,1995,Sub-grid,RO,Nonlocal,Nonlocal + Slope,CISM
+PIK_PISM1,FD,Hybrid,8,SP,1850,Sub-grid,StR,PICO,N/A,PISM
+PIK_PISM2,FD,Hybrid,8,SP,2015,Sub-grid,StR,PICO,N/A,PISM
+UCIJPL_ISSM,FE,HO,3-50,DA,2007,Sub-grid,Fix,PICOP,Nonlocal,ISSM
+ULB_fETISh_32km,FD,Hybrid,16,DA?,2005,N/A,Div,Plume,Nonlocal,fETISh
+ULB_fETISh_16km,FD,Hybrid,32,DA?,2005,N/A,Div,Plume,Nonlocal,fETISh
+UTAS_ElmerIce,FE,Stokes,4-40,DA,2015,Sub-grid,Fix,N/A,Local,ElmerIce
+VUB_AISMPALEO,FD,SIA+SSA,20,SP,2000,N/A,MH,N/A,Nonlocal anom.,AISMPALEO
+VUW_PISM,FD,Hybrid,16,SP,2015,No,StR,Lin,N/A,PISM

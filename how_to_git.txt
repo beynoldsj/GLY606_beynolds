@@ -1,0 +1,20 @@
+On Github, Start a new repository for the class and copy URL
+Then, back in your terminal:
+
+echo "# sample-code" >> README.md
+git init (Create an empty Git repository)
+git add README.md (Add file contents to the index)
+git commit -m "first commit" (Record changes to the repository)
+git branch -M main (List, create, or delete branches; -M <oldbranch> will be renamed to <newbranch>)
+git remote add origin https://github.com/segunajibola/sample-code.git (Manage set of tracked repositories and add a remote named <name> for the repository at <URL>)
+git push -u origin main (Update remote repository at <remote> <branch>)
+
+
+
+echo "# sample-code" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sgoliber/Intro2PythonFall23.git
+git push -u origin main

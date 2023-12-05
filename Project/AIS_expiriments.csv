@@ -1,0 +1,22 @@
+﻿exp,AOGCM,Scenario,Ocean Forcing,Ocean Sensitivity,Ice Shelf Fracture,Tier
+exp01,NorESM1-M,RCP8.5,Open,Medium,No,Tier 1 (core)
+exp02,MIROC-ESM-CHEM,RCP8.5,Open,Medium,No,Tier 1 (core)
+exp03,NorESM1-M,RCP2.6,Open,Medium,No,Tier 1 (core)
+exp04,CCSM4,RCP8.5,Open,Medium,No,Tier 1 (core)
+exp05,NorESM1-M,RCP8.5,Standard,Medium∗,No,Tier 1 (core)
+exp06,MIROC-ESM-CHEM,RCP8.5,Standard,Medium∗,No,Tier 1 (core)
+exp07,NorESM1-M,RCP2.6,Standard,Medium∗,No,Tier 1 (core)
+exp08,CCSM4,RCP8.5,Standard,Medium∗,No,Tier 1 (core)
+exp09,NorESM1-M,RCP8.5,Standard,High∗,No,Tier 1 (core)
+exp10,NorESM1-M,RCP8.5,Standard,Low∗,No,Tier 1 (core)
+exp11,CCSM4,RCP8.5,Open,Medium,Yes,Tier 1 (core)
+exp12,CCSM4,RCP8.5,Standard,Medium∗,Yes,Tier 1 (core)
+exp13,NorESM1-M,RCP8.5,Standard,PIGL,No,Tier 1 (core)
+expA1,HadGEM2-ES,RCP8.5,Open,Medium,No,Tier 2
+expA2,CSIRO-MK3,RCP8.5,Open,Medium,No,Tier 2
+expA3,IPSL-CM5A-MR,RCP8.5,Open,Medium,No,Tier 2
+expA4,IPSL-CM5A-MR,RCP2.6,Open,Medium,No,Tier 2
+expA5,HadGEM2-ES,RCP8.5,Standard,Medium∗,No,Tier 2
+expA6,CSIRO-MK3,RCP8.5,Standard,Medium∗,No,Tier 2
+expA7,IPSL-CM5A-MR,RCP8.5,Standard,Medium∗,No,Tier 2
+expA8,IPSL-CM5A-MR,RCP2.6,Standard,Medium∗,No,Tier 2
